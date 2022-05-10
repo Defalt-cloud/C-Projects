@@ -22,7 +22,6 @@ Beginner friendly small C Projects for study purposes.
 - Character Is Vowel or Consonant 
 - A Character Is an Alphabet or Not 
 - Uppercase, Lowercase, Special Character, or Digit 
-- The Number Is Positive or Negative 
 - The Number Is Even or Odd 
 - Greatest of Two Numbers 
 - Greatest Among Three Numbers 
