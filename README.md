@@ -22,10 +22,7 @@ Beginner friendly small C Projects for study purposes.
 - Character Is Vowel or Consonant 
 - A Character Is an Alphabet or Not 
 - Uppercase, Lowercase, Special Character, or Digit 
-- The Number Is Positive or Negative 
 - The Number Is Even or Odd 
-- Greatest of Two Numbers 
-- Greatest Among Three Numbers 
 - Leap Year 
 - The Date Is Correct or Not 
 - Voting Eligibility Checker 
@@ -47,8 +44,8 @@ Beginner friendly small C Projects for study purposes.
 - Check whether the triangle is an equilateral, isosceles or scalene triangle. 
 - Find all roots of a quadratic equation. 
 - Calculate profit or loss. 
-3. Loops 
-1. While Loop or While-Do Loop Questions 
+1. Loops 
+2. While Loop or While-Do Loop Questions 
 - Reverse A given Number 
 - Find Number Is Armstrong Or Not 
 - Calculate Sum of Natural Numbers 
