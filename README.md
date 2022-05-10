@@ -23,8 +23,6 @@ Beginner friendly small C Projects for study purposes.
 - A Character Is an Alphabet or Not 
 - Uppercase, Lowercase, Special Character, or Digit 
 - The Number Is Even or Odd 
-- Greatest of Two Numbers 
-- Greatest Among Three Numbers 
 - Leap Year 
 - The Date Is Correct or Not 
 - Voting Eligibility Checker 
